@@ -5,11 +5,11 @@
 - ng g c components/tweet
 <br>
 - tailwindcss
- - npm install -D tailwindcss postcss autoprefixer
- - npx tailwindcss init
- - "./src/**/*.{html,ts}",
- - @tailwind base;
- - @tailwind components
- - @tailwind utilities
+- npm install -D tailwindcss postcss autoprefixer
+- npx tailwindcss init
+- "./src/**/*.{html,ts}",
+- @tailwind base;
+- @tailwind components
+- @tailwind utilities
 <br>
 - ng g c pages/home
