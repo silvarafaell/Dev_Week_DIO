@@ -15,3 +15,4 @@
 
 <br>
 - ng g c pages/home
+- ng g c components/footer
