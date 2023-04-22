@@ -12,4 +12,4 @@
  - @tailwind components
  - @tailwind utilities
 
--ng g c pages/home
+- ng g c pages/home
