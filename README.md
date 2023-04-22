@@ -2,7 +2,7 @@
 - ng new tw-aula
 - ng generate component components/header
 - ng g c components/post
-- ng g c components/tweet
+- ng g c components/tweet   
 
 - tailwindcss
  - npm install -D tailwindcss postcss autoprefixer
