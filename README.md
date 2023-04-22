@@ -11,5 +11,6 @@
 - @tailwind base;
 - @tailwind components
 - @tailwind utilities
+
 <br>
 - ng g c pages/home
