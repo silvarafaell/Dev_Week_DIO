@@ -17,3 +17,4 @@
 
 - ng g c pages/home
 - ng g c components/footer
+- ng generate service services/messages
